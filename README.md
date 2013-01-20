@@ -1,5 +1,8 @@
+Learn You PLT for Greater Good
+===
+
 OH HAI
-======
+---
 This is a reading/resource list for my honours project. It contains articles, books and tutorials related to ML, Haskell, compilers and programming language design.
 
 XXX to JavaScript compilers
