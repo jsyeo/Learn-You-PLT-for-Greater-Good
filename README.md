@@ -47,6 +47,7 @@ camlp4
 ---
 - Resources for learning camlp4 http://www.wisdomandwonder.com/link/5302/resources-for-learning-camlp4
 - A (meta-)guide to CamlP4: Metaprogramming in OCaml http://andreiformiga.com/blog/?p=99
+- How to customize the syntax of OCaml, using Camlp5 (for the legacy Camlp4 but still useful) http://mjambon.com/extend-ocaml-syntax.html
 
 Courses in ML languages
 ---
