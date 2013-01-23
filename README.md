@@ -43,6 +43,11 @@ ML
 - OCaml cheat sheet http://www.ocamlpro.com//blog/2011/06/03/cheatsheets.html
 - OCaml github repo https://github.com/ocaml/ocaml
 
+camlp4
+---
+- Resources for learning camlp4 http://www.wisdomandwonder.com/link/5302/resources-for-learning-camlp4
+- A (meta-)guide to CamlP4: Metaprogramming in OCaml http://andreiformiga.com/blog/?p=99
+
 Courses in ML languages
 ---
 - CS421 Yale: Compilers and Interpreters http://flint.cs.yale.edu/cs421/
