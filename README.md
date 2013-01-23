@@ -47,3 +47,4 @@ Courses in ML languages
 - CS421 Yale: Compilers and Interpreters http://flint.cs.yale.edu/cs421/
 - Cornell CS3110: Data Structures and Functional Programming http://www.cs.cornell.edu/courses/cs3110/2012sp/lecturenotes.php
 - Coursera Programming Languages Course https://www.coursera.org/course/proglang
+- Caltech CS134b Programming languages and compilers http://main.metaprl.org/jyh/classes/cs134/cs134b/2005/public_html/syllabus.html
