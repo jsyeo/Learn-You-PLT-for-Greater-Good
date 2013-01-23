@@ -26,6 +26,7 @@ Parser Combinators
 Compilers and Language Design
 ---
 - Tail call optimization by trampoline http://stackoverflow.com/questions/189725/what-is-a-trampoline-function
+- Tail call recursion and trampoline in Python http://web.mit.edu/kmill/www/programming/tailcall.html
 
 F#
 ---
