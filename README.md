@@ -22,6 +22,8 @@ Lex and Yacc
 Parser Combinators
 ---
 - How to parse anything video http://www.infoq.com/presentations/Parser-Combinators
+- Functional Parsers aka parser combinators lecture by Erik Meijer [video] http://www.youtube.com/watch?v=4Z6BlLqAqt8
+- Monadic parsing in Haskell http://www.cs.nott.ac.uk/~gmh/pearl.pdf
 
 Compilers and Language Design
 ---
@@ -48,6 +50,15 @@ camlp4
 - Resources for learning camlp4 http://www.wisdomandwonder.com/link/5302/resources-for-learning-camlp4
 - A (meta-)guide to CamlP4: Metaprogramming in OCaml http://andreiformiga.com/blog/?p=99
 - How to customize the syntax of OCaml, using Camlp5 (for the legacy Camlp4 but still useful) http://mjambon.com/extend-ocaml-syntax.html
+
+Haskell
+---
+- Types and classes in haskell lecture by Erik Meijer [video] http://www.youtube.com/watch?v=4Z6BlLqAqt8
+- Type classes lecture 1 by Philip Wadler [video] http://www.youtube.com/watch?v=zYhkmMLEr18
+- Type classes lecture 2 by Philip Wadler [video] http://www.youtube.com/watch?v=qvvMhxAuPx8&playnext=1&list=PL4C1D41CB47EED318&feature=results_video
+- GADTs for dummies http://www.haskell.org/haskellwiki/GADTs_for_dummies
+- All About Monads, a monads tutorial http://www.haskell.org/haskellwiki/All_About_Monads
+- Haskell course by Philip Wadler [video playlist] http://www.youtube.com/playlist?list=PL4C1D41CB47EED318
 
 Courses in ML languages
 ---
