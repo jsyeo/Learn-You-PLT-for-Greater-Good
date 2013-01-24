@@ -56,6 +56,7 @@ Haskell
 - Types and classes in haskell lecture by Erik Meijer [video] http://www.youtube.com/watch?v=4Z6BlLqAqt8
 - Type classes lecture 1 by Philip Wadler [video] http://www.youtube.com/watch?v=zYhkmMLEr18
 - Type classes lecture 2 by Philip Wadler [video] http://www.youtube.com/watch?v=qvvMhxAuPx8&playnext=1&list=PL4C1D41CB47EED318&feature=results_video
+- Implementing type classes http://web.cecs.pdx.edu/~mpj/pubs/pldi93.html
 - GADTs for dummies http://www.haskell.org/haskellwiki/GADTs_for_dummies
 - All About Monads, a monads tutorial http://www.haskell.org/haskellwiki/All_About_Monads
 - Haskell course by Philip Wadler [video playlist] http://www.youtube.com/playlist?list=PL4C1D41CB47EED318
