@@ -51,6 +51,7 @@ camlp4
 - A (meta-)guide to CamlP4: Metaprogramming in OCaml http://andreiformiga.com/blog/?p=99
 - How to customize the syntax of OCaml, using Camlp5 (for the legacy Camlp4 but still useful) http://mjambon.com/extend-ocaml-syntax.html
 - Reading Camlp4 http://ambassadortothecomputers.blogspot.sg/p/reading-camlp4.html
+- Tutorial to add a python-like for-each syntax to OCaml http://ocaml.org/tutorials/camlp4_3.10/foreach_tutorial.html
 
 Haskell
 ---
